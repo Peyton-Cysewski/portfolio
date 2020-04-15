@@ -660,3 +660,7 @@ body.is-touch #banner {
         }
 
 }
+
+#yellowstonePic {
+  transform: rotate(90deg);
+}
