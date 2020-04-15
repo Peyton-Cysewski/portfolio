@@ -25,7 +25,7 @@ Finish time: 10:38am
 Actual time needed to complete: 1hr 8min
 
 Number and name of feature: #2 Add Functionality
-Estimate of time needed to complete: ___
-Start time: _____
-Finish time: _____
-Actual time needed to complete: _____
+Estimate of time needed to complete: 1hr
+Start time: 10:52pm
+Finish time: 11:27pm
+Actual time needed to complete: 35min

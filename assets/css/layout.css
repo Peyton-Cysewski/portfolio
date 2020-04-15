@@ -2433,7 +2433,7 @@ input[type="button"],
   }
 
   .spotlight:before {
-    background-image: url("images/overlay.png");
+    background-image: url("images/yellowstonePic.jpg");
     content: '';
     display: block;
     height: 100%;
